@@ -1,0 +1,17 @@
+{
+  "name": "Social Up To Advertisement Agency",
+  "short_name": "Social Up To",
+  "description": "Performance Marketing Agency - Meta, Google, SEO, Shopify",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#fbbf24",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/G34k514X/IMG-20260210-WA0013.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
